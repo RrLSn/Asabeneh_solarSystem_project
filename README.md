@@ -5,7 +5,7 @@ An implementation of Solar system Weigth calculator with HTML/CSS/JAVASCRIPT
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
 
 # Prequisite
-Your browser version must be recent for a better experience https://github.com/RrLSn/Tip_calculator.git
+Your browser version must be recent for a better experience https://github.com/RrLSn/Asabeneh_solarSystem_project.git
 
 # Tech/framework used
 HTML
@@ -13,8 +13,8 @@ CSS
 JAVASCRIPT
 
 # Demo
-[preview]()
-![screenshot]()
+[preview](https://sparkling-hummingbird-2ac85a.netlify.app)
+![screenshot](./media/Screenshot%202022-12-30%20023248.png)
 
 
 # Contact
