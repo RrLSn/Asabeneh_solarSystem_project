@@ -5,6 +5,8 @@
 }
 
 body{
+    width: 100vw;
+    height: 100vh;
     background: url('./media/Galaxy.gif');
     background-repeat: no-repeat;
     background-size: cover;
@@ -92,6 +94,7 @@ main .weigth_wrapper{
     align-items: center;
     font-size: 1.2rem;
     display: none;
+    text-align: center;
 }
 
 main .planet{
@@ -104,11 +107,11 @@ main .weigth{
     height: 8rem;
     border-radius: 50%;
     background-color: rgb(225, 225, 225, 0.1);
-    position: absolute;
-    margin-top: 4rem;
+    /* margin-top: 1.5rem; */
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: 500;
 }
 
 .required{
